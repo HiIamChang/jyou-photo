@@ -1,19 +1,29 @@
-# jyou-photo
+# todolist
 
-## Project setup
-```
-yarn install
-```
+使用vuecli搭建一个vue静态网页-网页代码上传到github上-在线浏览
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+## 关于网页内容插件组成
 
-### Compiles and minifies for production
-```
-yarn build
-```
+组件设想：
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- 目录：照片分类目录
+- 照片展示：右侧的content
+- 导航栏：
+
+  - title logo
+  - theme
+  - language
+  - avator
+
+## 时间轴
+
+### 1. 1010
+
+#### 目标
+
+- vue-cli搭建项目脚手架
+- 上传至github，实现最初的在线浏览
+
+#### 进展
+
+- 以上均完成
